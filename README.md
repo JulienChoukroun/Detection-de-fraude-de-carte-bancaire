@@ -13,4 +13,6 @@ Exemple de résultat sur l'analyse des données :
 
 ![alt text](https://github.com/JulienChoukroun/Detection-de-fraude-de-carte-bancaire/blob/main/Images/heure.png "Densité des transactions au cours d'une journée")
 
-![alt text](https://github.com/JulienChoukroun/Detection-de-fraude-de-carte-bancaire/blob/main/Images/transaction.png "Densité des transactions au cours d'une journée")
+![alt text](https://github.com/JulienChoukroun/Detection-de-fraude-de-carte-bancaire/blob/main/Images/transaction.png "Distribution des montants des transactions par classe")
+
+![alt text](https://github.com/JulienChoukroun/Detection-de-fraude-de-carte-bancaire/blob/main/Images/transaction.png "Distribution des montants des transactions par classe")
