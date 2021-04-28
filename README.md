@@ -11,4 +11,6 @@ Ce projet a été réalisé avec le langage R.
 
 Exemple de résultat sur l'analyse des données :
 
-![alt text](https://github.com/JulienChoukroun/Detection-de-fraude-de-carte-bancaire/blob/main/Images/heure.png "Heure des transactions")
+![alt text](https://github.com/JulienChoukroun/Detection-de-fraude-de-carte-bancaire/blob/main/Images/heure.png "Densité des transactions au cours d'une journée")
+
+![alt text](https://github.com/JulienChoukroun/Detection-de-fraude-de-carte-bancaire/blob/main/Images/transaction.png "Densité des transactions au cours d'une journée")
