@@ -15,4 +15,6 @@ Exemple de résultat sur l'analyse des données :
 
 ![alt text](https://github.com/JulienChoukroun/Detection-de-fraude-de-carte-bancaire/blob/main/Images/transaction.png "Distribution des montants des transactions par classe")
 
-![alt text](https://github.com/JulienChoukroun/Detection-de-fraude-de-carte-bancaire/blob/main/Images/transaction.png "Distribution des montants des transactions par classe")
+Réalisation d'une logistic regression :
+
+![alt text](https://github.com/JulienChoukroun/Detection-de-fraude-de-carte-bancaire/blob/main/Images/regression_logistic.png "Logistic Regression")
