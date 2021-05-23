@@ -18,3 +18,17 @@ Exemple de résultat sur l'analyse des données :
 Réalisation d'une logistic regression : (en cours)
 
 ![alt text](https://github.com/JulienChoukroun/Detection-de-fraude-de-carte-bancaire/blob/main/Images/regression_logistic.png "Logistic Regression")
+
+Résultat lorsque l'on prend l'intégralité du dataset :
+
+![alt text](https://github.com/JulienChoukroun/Detection-de-fraude-de-carte-bancaire/blob/main/Images/100-sans%20Reduction.png "Intégralité du dataset")
+
+Résultat lorsque l'on prend autant de données frauduleuses que de non frauduleuses :
+
+
+Résultat lorsque les données frauduleuses représente 11% des données (choix optimal ici) :
+
+
+Résultat lorsque l'on réalise de la Weighted Logistic Regression (pour cause de non convergence avant) :
+
+
