@@ -4,6 +4,7 @@ Ce projet est réalisé dans le cadre de la formation de cycle d'ingénieur (deu
 
 ## Présentation
 Ce projet a été réalisé avec le langage R.
+Le code se trouve aussi sur Kaggle : https://www.kaggle.com/julienchoukroun99/d-tection-de-fraude-de-carte-bancaire
 
 ### Objectifs :
 * Décrire, traiter et analyser statistiquement les données d'un dataset choisi sur Kaggle : Credit Card Fraud Detection.
