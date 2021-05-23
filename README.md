@@ -15,7 +15,7 @@ Exemple de résultat sur l'analyse des données :
 
 ![alt text](https://github.com/JulienChoukroun/Detection-de-fraude-de-carte-bancaire/blob/main/Images/transaction.png "Distribution des montants des transactions par classe")
 
-Réalisation d'une logistic regression : (en cours)
+Réalisation d'une logistic regression (ici nous sommes en présence d'un dataset **déséquilibré**) :
 
 ![alt text](https://github.com/JulienChoukroun/Detection-de-fraude-de-carte-bancaire/blob/main/Images/regression_logistic.png "Logistic Regression")
 
@@ -25,10 +25,8 @@ Résultat lorsque l'on prend l'intégralité du dataset :
 
 Résultat lorsque l'on prend autant de données frauduleuses que de non frauduleuses :
 
+![alt text](https://github.com/JulienChoukroun/Detection-de-fraude-de-carte-bancaire/blob/main/Images/50_50-superieure_0_1.png "Autant de frauduleuses que de non frauduleuses")
 
-Résultat lorsque les données frauduleuses représente 11% des données (choix optimal ici) :
+Résultat lorsque l'on réalise de la Weighted Logistic Regression :
 
-
-Résultat lorsque l'on réalise de la Weighted Logistic Regression (pour cause de non convergence avant) :
-
-
+![alt text](https://github.com/JulienChoukroun/Detection-de-fraude-de-carte-bancaire/blob/main/Images/50_50-superieure_0_1.png "Weighted Logistic Regression")
