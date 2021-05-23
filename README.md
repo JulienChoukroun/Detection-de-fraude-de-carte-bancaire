@@ -29,4 +29,4 @@ Résultat lorsque l'on prend autant de données frauduleuses que de non fraudule
 
 Résultat lorsque l'on réalise de la Weighted Logistic Regression :
 
-![alt text](https://github.com/JulienChoukroun/Detection-de-fraude-de-carte-bancaire/blob/main/Images/50_50-superieure_0_1.png "Weighted Logistic Regression")
+![alt text](https://github.com/JulienChoukroun/Detection-de-fraude-de-carte-bancaire/blob/main/Images/Weighted_regression.png "Weighted Logistic Regression")
